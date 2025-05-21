@@ -96,3 +96,12 @@ The **Multi-source RAG Agent** is an interactive Streamlit-based application des
    ```bash
    streamlit run app.py
    ```
+I. Upload files
+![Screenshot from 2025-05-21 15-09-24](https://github.com/user-attachments/assets/fc9aa84d-09ad-4e4f-bc24-26d25599c125)
+
+
+II. Provide description of files (optional)
+![Screenshot from 2025-05-21 15-12-43](https://github.com/user-attachments/assets/e0485cbb-c491-48d2-92aa-3904034d58cc)
+
+III. Ask questions
+![Screenshot from 2025-05-21 15-13-19](https://github.com/user-attachments/assets/ce0e1a84-5bf9-492e-a809-25cb58b88e5f)
